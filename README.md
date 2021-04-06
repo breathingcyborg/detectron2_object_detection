@@ -1,5 +1,9 @@
 # Detectron2 Object Detection
 
+### The notebook is intended to be used with google colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/breathingcyborg/detectron2_object_detection/blob/main/detectron2_train_custom_object_detection_model.ipynb)
+
 Training custom model using detectron2 takes some amount of tweaking.
 
 * register custom dataset and metadata.
